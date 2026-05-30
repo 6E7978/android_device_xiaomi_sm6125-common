@@ -66,3 +66,6 @@ ril.subscription.types=RUIM
 
 # Sensor
 persist.vendor.sensors.enable.mag_filter=true
+
+# Graphics
+debug.renderengine.backend=skiavkthreaded
